@@ -1,0 +1,3 @@
+- 👋 Hi, I’m rachata
+- 👀 I’m interested in improve my technical skill
+- 🌱 For now i’m currently learning sql
