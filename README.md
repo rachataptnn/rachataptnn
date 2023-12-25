@@ -1,7 +1,7 @@
 ## ABOUT ME
-- 👋 Hi, I’m rachata
+- 👋 Hi, I’m rachata or shorter you can call me --> Jack :D
 - 👀 I’m interested in improve my technical skill
-- ⚒️ currently have fun at https://github.com/rachataptnn/testCasesGenerator
+- ⚒️ Currently have fun with learning in Algorithms, System Design
 
 ## CONNECTS
 - https://www.linkedin.com/in/rachata-ptnn/
