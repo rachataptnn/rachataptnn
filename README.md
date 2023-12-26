@@ -3,7 +3,3 @@
 - 👀 I’m interested in improve my technical skill
 - ⚒️ Currently have fun with learning in Algorithms, System Design
 
-## CONNECTS
-- https://www.linkedin.com/in/rachata-ptnn/
-- https://www.instagram.com/rp.jackie/
-- https://www.facebook.com/JACKmd13/
