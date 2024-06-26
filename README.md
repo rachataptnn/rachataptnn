@@ -3,3 +3,4 @@
 - 👀 I’m interested in improve my technical skill
 - ⚒️ Currently have fun with learning in Algorithms, System Design
 
+[![My Skills](https://skillicons.dev/icons?i=go,rust,ts,gcp,github,ubuntu,mongodb,mysql,redis)](https://skillicons.dev)
