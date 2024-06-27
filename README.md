@@ -1,5 +1,5 @@
 ## ABOUT ME
-- 👋 Hi, I’m rachata, or shorter you can call me --> Jack :D
+- 👋 Hi, I’m Jack Rachata
 - 👀 I’m interested in improving my technical skill
 - ⚒️ Currently have fun with learning in Algorithms, System Design
 
