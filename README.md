@@ -11,4 +11,4 @@
 
 ![](https://leetcard.jacoblin.cool/rachata-ptnn?ext=heatmap)
 
-[![My Skills](https://skillicons.dev/icons?i=go,rust,ts,gcp,github,ubuntu,mongodb,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,scala,rust,ts,gcp,github,ubuntu,mongodb,mysql,redis)](https://skillicons.dev)
