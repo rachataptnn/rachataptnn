@@ -5,13 +5,13 @@
 
 ---
 
-📚 My [Shared Articles](https://medium.com/@rachata.ptnn) on medium
+📚 [My Medium Articles](https://medium.com/@rachata.ptnn)
 
 ---
 
 ![](https://leetcard.jacoblin.cool/rachata-ptnn?ext=heatmap)
 
-[![My Skills](https://skillicons.dev/icons?i=go,scala,rust,ts,gcp,github,ubuntu,mongodb,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,gcp,github,ubuntu,mongodb,mysql,redis)](https://skillicons.dev)
 
 ---
 
