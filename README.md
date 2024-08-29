@@ -6,13 +6,10 @@
 ---
 
 📚 [My Medium Articles](https://medium.com/@rachata.ptnn)
+⌨️ [My MonkeyType Profile](https://monkeytype.com/profile/rachata-ptnn) 
 
 ---
 
 ![](https://leetcard.jacoblin.cool/rachata-ptnn?ext=heatmap)
 
 [![My Skills](https://skillicons.dev/icons?i=go,gcp,github,ubuntu,mongodb,mysql,redis)](https://skillicons.dev)
-
----
-
-[My MonkeyType Profile](https://monkeytype.com/profile/rachata-ptnn) 
